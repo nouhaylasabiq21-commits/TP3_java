@@ -53,9 +53,9 @@ public class Exercice4 {
 	}
 
 	public static void main(String[] args) {
-		double[][] t1 = { { 1, 2, 3 }, { 3, 4, 5 }, { 6, 7, 8 } };
+		double[][] t1 = { { 1, 2, 3 }, { 3, 4, 5 } };
 
-		double[][] t2 = { { 10, 20, 30 }, { 40, 70, 60 } };
+		double[][] t2 = { { 10, 20, 30 } };
 		System.out.println("affichage de tableau t1 : ");
 		Exercice4.affichage(t1);
 		System.out.println("affichage de tableau t2 : ");
